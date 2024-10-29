@@ -1,0 +1,262 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "yY1rz6B7zaIPy4CqZI0wk1iAsag",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Du6ctqOzTTaShIeRXvJHBBXVvGg",
+      "id": "UEw4cnVhNnhmeXBDQWlxRWR2b0tzMDA2V1B2Qk1RRjktRy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2024-10-16T04:45:40Z",
+        "channelId": "UCpaXkkmbtTrQhJMQl0MJ94w",
+        "title": "asd123",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qzbLU-X4aAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qzbLU-X4aAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qzbLU-X4aAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qzbLU-X4aAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "hausid398",
+        "playlistId": "PL8rua6xfypCAiqEdvoKs006WPvBMQF9-G",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qzbLU-X4aAc"
+        },
+        "videoOwnerChannelTitle": "hausid398",
+        "videoOwnerChannelId": "UCpaXkkmbtTrQhJMQl0MJ94w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r5o98PXtvaeztTDTaKDKq_9oRis",
+      "id": "UEw4cnVhNnhmeXBDQWlxRWR2b0tzMDA2V1B2Qk1RRjktRy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2024-10-16T04:43:37Z",
+        "channelId": "UCpaXkkmbtTrQhJMQl0MJ94w",
+        "title": "not rickroll QR :troll:",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iOs_wfWd3ns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iOs_wfWd3ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iOs_wfWd3ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iOs_wfWd3ns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "hausid398",
+        "playlistId": "PL8rua6xfypCAiqEdvoKs006WPvBMQF9-G",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iOs_wfWd3ns"
+        },
+        "videoOwnerChannelTitle": "hausid398",
+        "videoOwnerChannelId": "UCpaXkkmbtTrQhJMQl0MJ94w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7Y42SN0jDjw3td_P8-du8P6A-aE",
+      "id": "UEw4cnVhNnhmeXBDQWlxRWR2b0tzMDA2V1B2Qk1RRjktRy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2024-10-16T04:41:21Z",
+        "channelId": "UCpaXkkmbtTrQhJMQl0MJ94w",
+        "title": "another fun qr to troll my guys",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aAUhhzXaakI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aAUhhzXaakI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aAUhhzXaakI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aAUhhzXaakI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "hausid398",
+        "playlistId": "PL8rua6xfypCAiqEdvoKs006WPvBMQF9-G",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aAUhhzXaakI"
+        },
+        "videoOwnerChannelTitle": "hausid398",
+        "videoOwnerChannelId": "UCpaXkkmbtTrQhJMQl0MJ94w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uv-csEuQ1mjOkkFlHAO5FevGQ5k",
+      "id": "UEw4cnVhNnhmeXBDQWlxRWR2b0tzMDA2V1B2Qk1RRjktRy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2024-10-16T04:40:00Z",
+        "channelId": "UCpaXkkmbtTrQhJMQl0MJ94w",
+        "title": "KSI MV cover",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ft_TtTMNvdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ft_TtTMNvdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ft_TtTMNvdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ft_TtTMNvdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "hausid398",
+        "playlistId": "PL8rua6xfypCAiqEdvoKs006WPvBMQF9-G",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ft_TtTMNvdg"
+        },
+        "videoOwnerChannelTitle": "hausid398",
+        "videoOwnerChannelId": "UCpaXkkmbtTrQhJMQl0MJ94w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5tumSaNH6_rGzwB2p39Ou_4xldk",
+      "id": "UEw4cnVhNnhmeXBDQWlxRWR2b0tzMDA2V1B2Qk1RRjktRy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2024-10-16T04:37:13Z",
+        "channelId": "UCpaXkkmbtTrQhJMQl0MJ94w",
+        "title": "rickroll video",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ny4Hp9Jdm-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ny4Hp9Jdm-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ny4Hp9Jdm-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ny4Hp9Jdm-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "hausid398",
+        "playlistId": "PL8rua6xfypCAiqEdvoKs006WPvBMQF9-G",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ny4Hp9Jdm-g"
+        },
+        "videoOwnerChannelTitle": "hausid398",
+        "videoOwnerChannelId": "UCpaXkkmbtTrQhJMQl0MJ94w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8f5e5hQiP6xNl9xI0AyaOlB2p6g",
+      "id": "UEw4cnVhNnhmeXBDQWlxRWR2b0tzMDA2V1B2Qk1RRjktRy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2024-10-16T04:34:59Z",
+        "channelId": "UCpaXkkmbtTrQhJMQl0MJ94w",
+        "title": "fun qr to troll friends",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FU5jR09A3oM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FU5jR09A3oM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FU5jR09A3oM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FU5jR09A3oM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "hausid398",
+        "playlistId": "PL8rua6xfypCAiqEdvoKs006WPvBMQF9-G",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FU5jR09A3oM"
+        },
+        "videoOwnerChannelTitle": "hausid398",
+        "videoOwnerChannelId": "UCpaXkkmbtTrQhJMQl0MJ94w"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 50
+  }
+}
